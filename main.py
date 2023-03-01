@@ -158,6 +158,7 @@ xs = [
 
 ys = [1.0, -1.0, -1.0, 1.0] # desired targets (binary classifier neural network)
 
+# Training loop
 for k in range(20):
 
     # forward pass
